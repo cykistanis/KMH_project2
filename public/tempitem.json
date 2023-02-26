@@ -1,0 +1,45 @@
+[{
+  "productType" : "Pen",
+  "brand": "Uni",
+  "image":"http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+  "specification": {
+    "pointSize" : 0.5,
+    "inkColor":"Black",
+    "inkType": "Gel Ink",
+    "waterProof" : "No"
+    
+  }
+  },
+  {
+  "productType" : "Pen",
+  "brand": "Uni",
+  "image":"http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+  "specification": {
+    "pointSize" : 0.7,
+    "inkColor":"Blue",
+    "inkType": "Gel Ink",
+    "waterProof" : "Yes"
+    
+  }
+  },
+ {
+  "productType" : "Mechanical Pen",
+  "brand": "Uni",
+   "image":"http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+  "specification": {
+    "pointSize" : 0.5   
+  }
+  },
+ {
+  "productType" : "Note Book",
+  "brand": "Deli",
+   "image":"http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+  "specification": {
+    "paperColor" : "White",
+    "material":"Material: 70gsm offset paper beige white paper",
+    "availableColor": "Black,Blue,Red",
+    "size":"A3",
+    "noOfPages":120    
+  }
+  },
+    ]
